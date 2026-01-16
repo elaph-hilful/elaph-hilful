@@ -2,20 +2,20 @@
 
 **DevSecOps Engineer | Site Reliability Expert | Cloud Native Architect**
 
-Building secure, scalable, and cost-optimized cloud infrastructures across AWS, Azure, and GCP. I specialize in zero-downtime migrations, AIOps-driven observability, and embedding security into every layer of the pipeline.
+Building secure, scalable, and cost optimized cloud infrastructures across AWS, Azure, and GCP. I specialize in zero downtime migrations, AIOps driven observability, and embedding security into every layer of the pipeline.
 
----
+
 
 ## 🚀 Impact at a Glance
 
-- ✅ **40% faster deployments** & **99.9% uptime** via GitOps automation (ArgoCD)
+- ✅ **40% faster deployments** & **99.9% uptime** via GitOps automation (ArgoCD, Flux)
 - 💰 **31% cloud cost reduction** through FinOps optimization
-- 🔄 **Zero-downtime migrations** across AWS ↔ Azure ↔ On-prem
+- 🔄 **Zero downtime migrations** across AWS ↔ Azure ↔ On premise Data Center
 - 🛡️ **75%+ reduction** in critical vulnerabilities using DevSecOps toolchains
 - 👥 **Mentored 40+ engineers** in secure DevOps practices
 - 🏆 **Best Performer** among 400+ engineers for infrastructure modernization
 
----
+
 
 ## 💼 Core Expertise
 
@@ -53,36 +53,36 @@ Building secure, scalable, and cost-optimized cloud infrastructures across AWS, 
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 
----
+
 
 ## 🎯 What I Do Best
 
-**Cloud Architecture** → Multi-cloud solutions with optimal cost-performance ratios  
-**Platform Engineering** → Self-service developer platforms with golden paths  
-**DevSecOps** → Security-first pipelines with automated compliance  
+**Cloud Architecture** → Multi cloud solutions with optimal cost performance ratios  
+**Platform Engineering** → Self service developer platforms with golden paths  
+**DevSecOps** → Security first pipelines with automated compliance  
 **SRE Practices** → 99.9%+ uptime through chaos engineering & observability  
 **AIOps Integration** → Predictive monitoring and incident prevention  
 **MLOps Pipelines** → Automated ML model deployment and monitoring  
 
----
+
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashabul-elaph-hilful)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilful25@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://elaph-hilful.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://elaph-hilful-portfolio-website.netlify.app)
 
----
+
 
 ## 📊 GitHub Activity
 
 ![](https://github-readme-stats.vercel.app/api?username=elaph-hilful&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=elaph-hilful&theme=dark&hide_border=false)
 
----
+
 
 💡 **Open to:** Cloud Architecture Consulting | DevSecOps Leadership | SRE Roles | Platform Engineering
 
----
+
 
 [![](https://visitcount.itsvg.in/api?id=elaph-hilful&icon=0&color=0)](https://visitcount.itsvg.in)
