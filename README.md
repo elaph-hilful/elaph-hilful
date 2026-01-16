@@ -1,24 +1,88 @@
-# 💫 About Me:
-👋 Hi, I'm Ashabul Elaph Hilful<br>Lead DevOps Engineer | Cloud & Kubernetes Specialist | DevSecOps Advocate<br><br>I design and operate secure, scalable, and cost optimized cloud infrastructures across AWS, Azure, and GCP, with deep expertise in Kubernetes, GitOps (ArgoCD), and Infrastructure as Code (Terraform). My work focuses on zero-downtime migrations, enterprise-grade observability, and embedding security into every layer of the pipeline.<br><br>🔹 Key Achievements:<br>✅ 40% faster deployments & 99.9% uptime via GitOps automation<br>✅ 31% cloud cost reduction through FinOps and rightsizing<br>✅ Zero-downtime multi-cloud migrations (AWS ↔ Azure ↔ On-prem)<br>✅ 75%+ reduction in critical vulnerabilities using DevSecOps toolchains (Trivy, OPA, Falco, DefectDojo)<br>✅ Mentored 40+ engineers in secure DevOps practices<br><br>🔧 Tech Stack:<br>Kubernetes Terraform ArgoCD Docker Ansible<br>AWS Azure GCP Prometheus/Grafana HashiCorp Vault<br>SonarQube Trivy OPA Falco GitHub Actions GitLab CI/CD<br><br>🏆 Recognized as Best Performer among 400+ engineers for infrastructure modernization and cloud security leadership.<br><br><br><br>
+# 👋 Hi, I'm Ashabul Elaph Hilful
 
+**DevSecOps Engineer | Site Reliability Expert | Cloud Native Architect**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashabul-elaph-hilful) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hilful25@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=plastic&logo=linode&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=plastic&logo=vultr) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=plastic&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=plastic&logo=travis&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=plastic&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=plastic&logo=aqua&logoColor=#0018A8) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=plastic&logo=opentelemetry&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=plastic&logo=rancher&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=plastic&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=elaph-hilful&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=elaph-hilful&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elaph-hilful&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=elaph-hilful&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+Building secure, scalable, and cost-optimized cloud infrastructures across AWS, Azure, and GCP. I specialize in zero-downtime migrations, AIOps-driven observability, and embedding security into every layer of the pipeline.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=elaph-hilful&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Impact at a Glance
+
+- ✅ **40% faster deployments** & **99.9% uptime** via GitOps automation (ArgoCD)
+- 💰 **31% cloud cost reduction** through FinOps optimization
+- 🔄 **Zero-downtime migrations** across AWS ↔ Azure ↔ On-prem
+- 🛡️ **75%+ reduction** in critical vulnerabilities using DevSecOps toolchains
+- 👥 **Mentored 40+ engineers** in secure DevOps practices
+- 🏆 **Best Performer** among 400+ engineers for infrastructure modernization
+
+---
+
+## 💼 Core Expertise
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+
+### 🔐 DevSecOps & Security
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black)
+![Falco](https://img.shields.io/badge/Falco-00AEC7?style=flat&logo=falco&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-0079C1?style=flat&logo=openpolicyagent&logoColor=white)
+
+### 🤖 AIOps & MLOps
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elasticsearch&logoColor=white)
+
+### 🔄 CI/CD & GitOps
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+### 🛠️ Automation & IaC
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+
+---
+
+## 🎯 What I Do Best
+
+**Cloud Architecture** → Multi-cloud solutions with optimal cost-performance ratios  
+**Platform Engineering** → Self-service developer platforms with golden paths  
+**DevSecOps** → Security-first pipelines with automated compliance  
+**SRE Practices** → 99.9%+ uptime through chaos engineering & observability  
+**AIOps Integration** → Predictive monitoring and incident prevention  
+**MLOps Pipelines** → Automated ML model deployment and monitoring  
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashabul-elaph-hilful)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilful25@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://elaph-hilful.github.io)
+
+---
+
+## 📊 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=elaph-hilful&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=elaph-hilful&theme=dark&hide_border=false)
+
+---
+
+💡 **Open to:** Cloud Architecture Consulting | DevSecOps Leadership | SRE Roles | Platform Engineering
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=elaph-hilful&icon=0&color=0)](https://visitcount.itsvg.in)
