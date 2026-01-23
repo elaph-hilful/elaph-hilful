@@ -1,6 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Ashabul+Elaph+Hilful;DevSecOps+Engineer+%7C+SRE+%7C+Cloud+Architect;Building+Secure%2C+Scalable%2C+Cost-Optimized+Infra;Always+Shipping%2C+Always+Securing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Ashabul+Elaph+Hilful;DevSecOps+Engineer+%7C+SRE+%7C+Cloud+Architect;Building+Secure+Scalable+Cost-Optimized+Infra;Always+Shipping+Always+Securing)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://elaph-hilful-portfolio-website.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashabul-elaph-hilful)
@@ -23,7 +29,7 @@ DevSecOps Engineer building production-grade cloud infrastructure across AWS, Az
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,prometheus,grafana,argocd,github,gitlab,jenkins,python,bash,powershell,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,prometheus,grafana,github,gitlab,jenkins,python,bash,powershell,linux,git)](https://skillicons.dev)
 
 </div>
 
@@ -46,7 +52,7 @@ DevSecOps Engineer building production-grade cloud infrastructure across AWS, Az
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=elaph-hilful&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=elaph-hilful&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=elaph-hilful&theme=tokyonight&hide_border=true" />
 
 </div>
 
