@@ -20,7 +20,7 @@
 
 DevSecOps Engineer building production-grade cloud infrastructure across AWS, Azure, and GCP. I focus on **zero-downtime migrations**, **GitOps automation**, and **embedding security at every layer**. Currently architecting multi-cloud platforms with 99.9% uptime and mentoring teams on SRE best practices.
 
-📍 Dhaka, Bangladesh • Open to remote collaboration  
+📍 Dhaka, Bangladesh   
 🌐 **Website:** [www.elaphhilful.com](https://www.elaphhilful.com)  
 💡 *"Security isn't a feature—it's the foundation."*
 
