@@ -63,6 +63,5 @@ DevSecOps Engineer building production-grade cloud infrastructure across AWS, Az
 
 ![](https://visitcount.itsvg.in/api?id=elaph-hilful&icon=0&color=0)
 
-**💼 Open to:** Cloud Architecture Consulting • DevSecOps Leadership • SRE/Platform Engineering Roles
 
 </div>
